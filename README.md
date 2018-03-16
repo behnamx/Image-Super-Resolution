@@ -8,6 +8,8 @@ Also contains models that outperforms the above mentioned model, termed Expanded
 ## Setup
 Supports Keras with Theano and Tensorflow backend. Due to recent report that Theano will no longer be updated, Tensorflow is the default backend for this project now.
 
+pip3 install keras, tensorflow
+
 ## Usage
 
 **Note**: The project is going to be reworked. Therefore please refer to [Framework-Updates.md](https://github.com/titu1994/Image-Super-Resolution/blob/master/Framework-Update.md) to see the changes which will affect performance.
